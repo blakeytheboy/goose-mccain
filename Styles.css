@@ -1,0 +1,208 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+  font-family:'Courier Prime', monospace;
+  src: url("Courier_Prime.zip")
+}
+p {
+	font-family: "Courier New", "monospace"
+}
+body {
+	background-color: #1b4d89;
+}
+header {
+	background-color: #ffffff;
+	width: 90%;
+	display: block;
+	float: left;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+}
+h1 {
+	background-color: red;
+	width: 90%;
+	display: block;
+	float: left;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+}
+h2 {
+	background-color: #1b4d89;
+	color: aliceblue;
+	width: 90%;
+	display: block;
+	float: left;
+	text-align: center;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+	font-family: "Courier New", "monospace"
+}
+.photosport {
+	margin: 0px 25% 0px 25%;
+	background-color: #1b4d89;
+	width: 40%;
+	display: block;
+	float: left;
+	padding: 30px 5% 30px 5%;
+}
+.explainer {
+	background-color: #f9e45b;
+	width: 60%;
+	display: block;
+	float: left;
+	margin: 5px 15% 5px 15%;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.mainContentArea {
+	background-color: #6db784;
+	width: 90%;
+	display: block;
+	float: left;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+}
+.gif1 {
+	background-color: #f9e45b;
+	width: 50%;
+	display: block;
+	float: left;
+	margin: 0px 20% 5px 20%;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.m1 {
+	background-color: #f9e45b;
+	width: 60%;
+	display: block;
+	float: left;
+	margin: 5px 15% 5px 15%;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.m2 {
+	margin: 5px 25% 5px 25%;
+	background-color: #f9e45b;
+	width: 40%;
+	display: block;
+	float: left;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.biography {
+	background-color: #f9e45b;
+	width: 90%;
+	display: block;
+	float: left;
+	text-align: center;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+}
+.bio {
+	margin: 0px 15% 0px 15%;
+}
+.bot1 {
+	background-color: #f9e45b;
+	width: 40%;
+	display: block;
+	float: left;
+	margin: 0px 25% 0px 25%;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.bot2 {
+	background-color: #f9e45b;
+	width: 60%;
+	display: block;
+	float: left;
+	margin: 5px 15% 0px 15%;
+	padding: 30px 5% 30px 5%;
+	text-align: center
+}
+.trailer {
+	background-color: #1b4d89;
+	width: 80%;
+	display: block;
+	float: left;
+	margin: 0px 5% 5px 5%;
+	padding: 30px 5% 30px 5%;
+}
+.blake {
+	margin: 0px 25% 0px 25%;
+	background-color: #1b4d89;
+	width: 40%;
+	display: block;
+	float: left;
+	padding: 30px 5% 30px 5%;
+}
+.placeholder{
+	background-color: #1b4d89;
+	width: 90%;
+	display: block;
+	float: left;
+	margin: 0px 0 0px 0;
+	padding: 30px 5% 30px 5%;
+}
+ul {
+	list-style-type:none;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+	background-color: #1b4d89;
+	text-align: center;
+}
+li {
+	display:inline;
+}
+li a {
+	display: inline-block;
+	color: #f9e45b;
+	text-align: centre;
+	padding: 14px 16px;
+	text-decoration: none;
+	text-align: center;
+}
+#------------------------breakfrommainsite-------------------#
+.leftC {
+	border-left: 8px solid #f9e45b;
+	border-radius: 4px;
+	padding-left: 15px;
+	word-wrap: break-word;
+	
+}
+.leftContent {
+	float: right;
+	width: 48%;
+	background-color: #f9e45b;
+	text-align: center;
+}
+.rightC {
+	border-left: 8px solid #f9e45b;
+	border-radius: 4px;
+	padding-left: 15px;
+}
+
+.rightContent {
+	float: left;
+	width: 48%;
+	background-color: #f9e45b;
+	text-align: center;
+}
+.ending {
+	background-color: #f9e45b;
+	width: 60%;
+	display: block;
+	float: left;
+	margin: 5px 15% 5px 15%;
+	padding: 30px 5% 30px 5%;
+	text-align: center;
+}
+.essential {
+	background-color: #f9e45b;
+	width: 70%;
+	display: block;
+	float: left;
+	margin: 5px 10% 5px 10%;
+	padding: 30px 5% 30px 5%;
+	text-align: center;
+}
